@@ -1,7 +1,7 @@
 # Online-Examination-System
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212224110042
+# Name: NIRANJAN V
+# Date: 21-05-2026
 
 
 # AIM:
@@ -39,6 +39,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="1252" height="1032" alt="image" src="https://github.com/user-attachments/assets/6ed238dd-aa6e-49c0-89d7-3177ad7ef417" />
 
 
 
@@ -57,6 +58,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1257" height="1033" alt="image" src="https://github.com/user-attachments/assets/197110c4-8911-4bd2-af4e-a2c10a030235" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -66,6 +68,8 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+
+<img width="1207" height="988" alt="image" src="https://github.com/user-attachments/assets/cc83caa0-b2dd-4409-9972-b876acb3b7be" />
 
 
 # PACKAGE DIAGRAM:
@@ -79,6 +83,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/c48c4bea-0b65-4250-bdda-e23c256243f4" />
 
 
 
@@ -95,6 +100,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+<img width="1259" height="1033" alt="image" src="https://github.com/user-attachments/assets/a84bbc35-22ca-4b19-9cbb-02ee3ce6abe7" />
 
 
 
@@ -116,6 +122,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/33249f2f-f3fc-4db4-b321-307d0f0114f4" />
 
 
 
